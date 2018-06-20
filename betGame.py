@@ -1,6 +1,5 @@
 import telepot
 import time
-from firebase import firebase
 from telepot.loop import MessageLoop
 from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 
